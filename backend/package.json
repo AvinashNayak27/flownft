@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@superfluid-finance/sdk-core": "^0.6.7",
+    "@thirdweb-dev/sdk": "^3.10.62",
+    "axios": "^1.5.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "ethers": "^5.7.2",
+    "express": "^4.18.2",
+    "graphql": "^16.7.1",
+    "mongoose": "^7.5.3"
+  }
+}
